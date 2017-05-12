@@ -1,6 +1,7 @@
-# Http
+# Youtube Search App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
+Simple app to search for Youtube videos using Angular.
+![youtube](https://cloud.githubusercontent.com/assets/1610809/26006881/78a88e42-373e-11e7-8361-ed61324321fb.PNG)
 
 ## Development server
 
